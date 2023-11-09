@@ -125,7 +125,7 @@
         "Yes",
         "No"
       ],
-      "Description": "Enable scheduling of Aurora clusters for RDS Service."
+      "Description": "Enable scheduling of Aurora  clusters for RDS Service."
     },
     "CreateRdsSnapshot": {
       "Type": "String",
